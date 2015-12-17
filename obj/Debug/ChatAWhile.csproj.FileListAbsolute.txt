@@ -1,0 +1,10 @@
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\ChatAWhile\bin\Debug\ChatAWhile.exe.config
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\ChatAWhile\obj\Debug\ChatAWhile.exe
+C:\Users\teacher\Desktop\Homework\Chapter 6\Exercises\ChatAWhile\obj\Debug\ChatAWhile.pdb
+D:\csharp\Chapter 6\Exercises\ChatAWhile\bin\Debug\ChatAWhile.exe.config
+D:\csharp\Chapter 6\Exercises\ChatAWhile\obj\Debug\ChatAWhile.exe
+D:\csharp\Chapter 6\Exercises\ChatAWhile\obj\Debug\ChatAWhile.pdb
+D:\csharp\Chapter 6\Exercises\ChatAWhile\bin\Debug\ChatAWhile.exe
+D:\csharp\Chapter 6\Exercises\ChatAWhile\bin\Debug\ChatAWhile.pdb
